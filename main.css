@@ -1,0 +1,125 @@
+.bl-background {
+    background-color: #cdcbcb;
+    padding: 20px;
+    margin:auto;
+    min-width: 1100px;
+}
+
+.bl-list {
+    background: white;
+    margin-bottom: 10px;
+    width:75%;
+    height:auto;
+    
+}
+
+.bl-bought {
+    background: white;
+    float:right;
+    padding:10px;
+    width:250px;
+    height:auto;
+}
+
+.bl-row{
+    padding-top: 5px;
+   height:60px;
+}
+
+.bl-product, .bl-count, .bl-label, .bl-plus, .bl-buttons{
+    display: inline-block;
+}
+
+.bl-product{
+    width:35%;
+    margin-left:10px;
+    padding-top: 15px;
+}
+
+.bl-buttons{
+    float:right;
+    margin-right:10px;
+}
+
+.color-line{
+    color:darkgray;
+}
+.bl-boughtbut{
+    background-color:silver;
+    border-radius: 10px;
+     width:150px;
+    height:50px;
+    
+}
+.bl-exit{
+    
+    background-color: crimson;
+    border-radius: 15%;
+    color: white;
+    width:50px;
+    height:50px;
+}
+
+/*Кнопки*/
+.bl-label {
+    background: silver;
+    padding-left:10px;
+    
+    padding-top:5px;
+    padding-bottom: 5px;
+    
+    border-radius: 20%;
+    width:20px;
+    height: 20px;
+}
+.bl-plus {
+    background: #04a613;
+    color: white;
+    border-radius: 50%;
+    width:45px;
+    height: 45px;
+    margin-left: 15px;
+    
+}
+.bl-minus{
+     background: red;
+    color: white;
+    border-radius: 50%;
+    width:45px;
+    height: 45px;
+    margin-right: 15px;
+    
+}
+.bl-add{
+    background-color:dodgerblue;
+    border-radius: 10px;
+    color:white;
+     width:150px;
+    height:50px;
+    
+}
+.bl-textinput{
+    width: 80%;
+    height: 40px;
+    border-color:silver;
+    text-decoration-color: silver;
+}
+
+.remain{
+    background-color: silver;
+    border-radius:2px; 
+    padding: 5px;
+    
+}
+.bl-numOfRemains{
+    background-color: red;
+    color:white;
+    border-radius: 50%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    
+}
+
+
+
